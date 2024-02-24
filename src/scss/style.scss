@@ -1,0 +1,30 @@
+@import "normalize.css";
+
+
+.app{
+    width: 50%;
+    border: 1rem solid;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ebbdbd;
+
+    &-score{
+        display: flex;
+        flex-direction: column;
+        margin: 1rem;
+    }
+    &-bot{
+        margin: 1rem;
+    }
+    &-buttons{
+        margin: 1rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+
+        img{
+            margin: 1rem;
+        }
+    }
+
+}
