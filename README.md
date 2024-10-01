@@ -39,5 +39,3 @@ To run the project in your local environment, follow these steps:
 
 ## 📹 Video
 
-(Here you can link a video demonstration if you have one.)
-
