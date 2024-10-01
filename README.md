@@ -1,27 +1,43 @@
-# Project form for rock-paper-scissors
-Small pet-project
 
-This project was bootstrapped with ViteJS
+# RockPaperScissors - A Simple Game
 
-# Available Scripts
+**RockPaperScissors** is a simple web application that allows users to play the classic "Rock, Paper, Scissors" game against a computer opponent. The game randomly selects a move for the computer and compares it with the player's choice to determine the winner.
 
-In the project directory, you can run:
+It is built using:
 
-## npm run dev 
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-Runs the app in the development mode.
-Open http://localhost to view it in the browser.
+## 👾 Features
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+- Play the classic "Rock, Paper, Scissors" game.
+- Random move selection for the computer.
+- Score tracking to keep track of the player's and computer's wins.
+- Simple and intuitive interface with clean design.
 
-## npm run build
+## 📒 Process
 
-By default, the build output will be placed at dist. 
-You may deploy this dist folder to any of your preferred platforms.
+I started by building the basic game logic using JavaScript to handle the random selection of moves for the computer and comparing them with the player's choice. Next, I designed a simple UI with HTML and CSS to provide a visual representation of the game.
 
-## npm run preview
+Additional features include score tracking, which allows the player to see how many rounds they've won or lost.
 
-The vite preview command will boot up a local 
-static web server that serves the files from dist at http://localhost:4173. 
-It's an easy way to check if the production build looks OK in your local environment.
+**NOTE:** This is a simple game project designed to demonstrate basic JavaScript functionality and DOM manipulation.
+
+## 🚦 Running the Project
+
+To run the project in your local environment, follow these steps:
+
+1. **Clone the repository to your local machine**:
+   
+   ```bash
+   git clone https://github.com/eugenyush/RockPaperScissors.git
+   cd RockPaperScissors
+   ```
+
+2. **Open the `index.html` file** in your browser to start playing the game.
+
+## 📹 Video
+
+(Here you can link a video demonstration if you have one.)
+
